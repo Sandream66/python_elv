@@ -1,4 +1,4 @@
-![](スライド1.jpeg)
+![](https://raw.githubusercontent.com/Sandream66/python_elv/master/p_elv.jpeg)
 +++
 
 ### 挨拶の下
