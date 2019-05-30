@@ -1,4 +1,4 @@
-![alt](blob/master/スライド1.jpeg)
+(スライド1.jpeg)
 +++
 
 ### 挨拶の下
