@@ -35,8 +35,19 @@
 WEBサービス・WEBアプリケーション制作<br>
 スマホアプリ（Android） デスクトップアプリ制作<br>
 フィンテック・ブロックチェーン技術の開発<br>
-</font><br/>
+</font><br>
 
++++
+
+**Pythonスキルを生かせる仕事とは？**
+
++++
+
+<font color="orange" size="5" face="Comic Sans MS">
+人工知能（AI）エンジニア
+WEBアプリケーションエンジニア
+データサイエンティスト
+</font>
 ---
 
 ### 3枚目
