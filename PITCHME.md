@@ -28,7 +28,7 @@
 
 +++
 
-<font color="orange" size="14" face="Comic Sans MS">
+<font color="orange" size="8" face="Comic Sans MS">
 機械学習を使った人工知能の開発<br>
 自動データ処理や分析などの業務効率化<br>
 スクレイピングによるWEB上の画像データ・テキストデータの自動収集<br>
