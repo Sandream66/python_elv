@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/p_elv.jpeg" width=100%>
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/p_elv.jpeg" width=120%>
 
 +++
 
