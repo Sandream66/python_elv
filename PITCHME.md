@@ -1,3 +1,4 @@
+<!-- 自己紹介 -->
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/p_elv.jpeg" width=200%>
 +++
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide2.jpeg" width=85%>
@@ -17,9 +18,10 @@
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide9.jpeg" width=85%>
 +++
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide10.jpeg" width=85%>
-
+<!-- 自己紹介 -->
 ---
 
+<!-- Pythonの話 -->
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide11.jpeg" width=85%>
 +++
 
@@ -68,7 +70,19 @@ etc...<br>
 間違いなく<br>
 初心者にも優しい言語だと思います！
 </font>
+<!-- Pythonの話 -->
 
 ---
 
-### 終わり
+Pythonの基礎
+
++++
+
+データ型
+
++++
+
+
++++
+
+
