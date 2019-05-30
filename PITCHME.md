@@ -23,7 +23,18 @@
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide11.jpeg" width=85%>
 +++
 
-<font size="150">Pythonって何が出来るの？
+<font size="150">Pythonって何が出来るの？</font>
+
+
++++
+
+機械学習を使った人工知能の開発
+自動データ処理や分析などの業務効率化
+スクレイピングによるWEB上の画像データ・テキストデータの自動収集
+WEBサービス・WEBアプリケーション制作
+スマホアプリ（Android） デスクトップアプリ制作
+フィンテック・ブロックチェーン技術の開発
+
 
 ---
 
