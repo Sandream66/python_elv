@@ -23,8 +23,9 @@
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide11.jpeg" width=85%>
 +++
 
-**Pythonって何が出来るの？**
-
+<font size="18">
+Pythonって何が出来るの？
+</font>
 
 +++
 
@@ -39,8 +40,9 @@ WEBサービス・WEBアプリケーション制作<br>
 
 +++
 
-**Pythonスキルを生かせる仕事とは？**
-
+<font size="18">
+Pythonスキルを生かせる仕事とは？
+</font>
 +++
 
 <font color="orange" size="8" face="Comic Sans MS">
@@ -49,9 +51,23 @@ WEBアプリケーションエンジニア<br>
 データサイエンティスト<br>
 etc...<br>
 </font>
----
++++
 
-### 3枚目
+<font size="18">
+何故Pythonがいいの？
+</font>
+
++++
+<font color="orange" size="8" face="Comic Sans MS">
+それは、私も今模索中。<br>
+でも・・
+</font>
+
++++
+<font color="orange" size="8" face="Comic Sans MS">
+間違いなく<br>
+初心者にも優しい言語だと思います！
+</font>
 
 ---
 
