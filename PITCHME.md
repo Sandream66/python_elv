@@ -7,6 +7,8 @@
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide4.jpeg" width=85%>
 +++
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide5.jpeg" width=85%>
++++
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide6.jpeg" width=85%>
 
 
 
