@@ -43,10 +43,11 @@ WEBサービス・WEBアプリケーション制作<br>
 
 +++
 
-<font color="orange" size="5" face="Comic Sans MS">
-人工知能（AI）エンジニア
-WEBアプリケーションエンジニア
-データサイエンティスト
+<font color="orange" size="8" face="Comic Sans MS">
+人工知能（AI）エンジニア<br>
+WEBアプリケーションエンジニア<br>
+データサイエンティスト<br>
+etc...<br>
 </font>
 ---
 
