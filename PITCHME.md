@@ -41,9 +41,8 @@ WEBサービス・WEBアプリケーション制作<br>
 
 +++
 
-<font size="18">
 ### Pythonスキルを生かせる仕事とは？
-</font>
+
 +++
 
 <font color="orange" size="8" face="Comic Sans MS">
