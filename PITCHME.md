@@ -45,17 +45,14 @@ WEBサービス・WEBアプリケーション制作<br>
 
 +++
 
-<font color="orange" size="8" face="Comic Sans MS">
+### こんなお仕事
 人工知能（AI）エンジニア<br>
 WEBアプリケーションエンジニア<br>
 データサイエンティスト<br>
 etc...<br>
-</font>
 +++
 
-<font size="18">
-何故Pythonがいいの？
-</font>
+### 何故Pythonがいいの？
 
 +++
 <font color="orange" size="8" face="Comic Sans MS">
@@ -72,7 +69,7 @@ etc...<br>
 
 ---
 
-Pythonの基礎
+# Pythonの基礎
 
 +++
 
