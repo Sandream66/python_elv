@@ -1,7 +1,8 @@
 <!-- 自己紹介 -->
-###### 自己紹介
+###### Let's start Python
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/p_elv.jpeg" width=200%>
 +++
+###### <font color="black">自己紹介</font>
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide2.jpeg" width=85%>
 +++
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide3.jpeg" width=85%>
