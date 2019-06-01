@@ -1,4 +1,3 @@
-// #ではじめた行の英語が全部大文字になるのを防ぐ設定
 .reveal h1,
 .reveal h2,
 .reveal h3,
@@ -9,7 +8,6 @@
   word-wrap: break-word;
 }
 
-// ![]()で入れた画像の枠が出るのを防ぐ設定
 .reveal section img {
   border: 0;
   box-shadow: none;
