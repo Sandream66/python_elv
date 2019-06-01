@@ -25,9 +25,7 @@
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide11.jpeg" width=85%>
 +++
 
-<font size="18">
 # Pythonって何が出来るの？
-</font>
 
 +++
 
