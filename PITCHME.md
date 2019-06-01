@@ -1,8 +1,6 @@
 <!-- 自己紹介 -->
-###### Let's start Python
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/p_elv.jpeg" width=200%>
 +++
-###### <font color="black">自己紹介</font>
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide2.jpeg" width=85%>
 +++
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide3.jpeg" width=85%>
@@ -31,6 +29,7 @@
 
 +++
 
+######　出来ることモロモロ
 <font color="orange" size="5" face="Comic Sans MS">
 機械学習を使った人工知能の開発<br>
 自動データ処理や分析などの業務効率化<br>
