@@ -26,7 +26,7 @@
 +++
 
 <font size="18">
-Pythonって何が出来るの？
+# Pythonって何が出来るの？
 </font>
 
 +++
