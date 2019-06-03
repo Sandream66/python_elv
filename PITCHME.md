@@ -88,6 +88,6 @@ Windowsの方
 ##### でPythonを起動しよう。  
 
 Macの方  
-Python3 と入力しエンター    
-Windowsの方
-Pythonと入力しエンター
+<font size="4">Python3 と入力しエンター    </font>
+Windowsの方    
+<font size="4">Pythonと入力しエンター</font>
