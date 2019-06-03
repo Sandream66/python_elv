@@ -98,19 +98,19 @@ Windowsの方
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python1.jpg" width="700">
 
 +++
-# 数値や文字などの演算子
+##### 数値や文字などの演算子
 
-|<font size="6">演算子</font>|意味|
+|<font size="6">演算子</font>|<font size="6">意味|
 |:--|:--|
-|x + y | xとyの加算|
-|x - y | xとyの減算|
-|x * y | xとyの乗算|
-|x / y | xとyの除算|
-|x // y | xとyの整数除算|
-|x % y | xとyの乗除|
-|-x | xの符号を反転した値|
-|+x | xの符号を反転しない値|
-|x ** y | xのy乗|
+|<font size="6">x + y </font>| <font size="6">xとyの加算</font>|
+|<font size="6">x - y </font>| <font size="6">xとyの減算</font>|
+|<font size="6">x * y </font>| <font size="6">xとyの乗算</font>|
+|<font size="6">x / y </font>| <font size="6">xとyの除算</font>|
+|<font size="6">x // y </font>| <font size="6">xとyの整数除算</font>|
+|<font size="6">x % y </font>| <font size="6">xとyの乗除</font>|
+|<font size="6">-x </font>| <font size="6">xの符号を反転した値</font>|
+|<font size="6">+x </font>| <font size="6">xの符号を反転しない値</font>|
+|<font size="6">x ** y </font>| <font size="6">xのy乗</font>|
 
 
 
