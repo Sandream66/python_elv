@@ -99,7 +99,7 @@ etc...<br>
 
 単純なカレーのレシピを考えてみてください。 
 
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpeg" width=85%>
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpeg">
 
 <br>
 これがクラスという概念になります。<br>
