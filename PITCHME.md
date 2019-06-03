@@ -96,3 +96,16 @@ Windowsの方
 <font size="6">こんな感じになっていればOK  
   ＊Pythonあとの数字とかは違っていても大丈夫です</font>  
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python1.jpg" width="700">
+
++++
+
+|演算子|意味|
+|:--|:--|
+|x + y|xとyの加算|
+|x + y|xとyの加算|
+|x + y|xとyの加算|
+|x + y|xとyの加算|
+|x + y|xとyの加算|
+|x + y|xとyの加算|
+|x + y|xとyの加算|
+
