@@ -102,15 +102,15 @@ Windowsの方
 
 |<font size="6">演算子</font>|<font size="6">意味|
 |:--|:--|
-|<font size="6">x + y </font>| <font size="6">xとyの加算</font>|
-|<font size="6">x - y </font>| <font size="6">xとyの減算</font>|
-|<font size="6">x * y </font>| <font size="6">xとyの乗算</font>|
-|<font size="6">x / y </font>| <font size="6">xとyの除算</font>|
-|<font size="6">x // y </font>| <font size="6">xとyの整数除算</font>|
-|<font size="6">x % y </font>| <font size="6">xとyの乗除</font>|
-|<font size="6">-x </font>| <font size="6">xの符号を反転した値</font>|
-|<font size="6">+x </font>| <font size="6">xの符号を反転しない値</font>|
-|<font size="6">x ** y </font>| <font size="6">xのy乗</font>|
+|<font size="4">x + y </font>| <font size="4">xとyの加算</font>|
+|<font size="4">x - y </font>| <font size="4">xとyの減算</font>|
+|<font size="4">x * y </font>| <font size="4">xとyの乗算</font>|
+|<font size="4">x / y </font>| <font size="4">xとyの除算</font>|
+|<font size="4">x // y </font>| <font size="4">xとyの整数除算</font>|
+|<font size="4">x % y </font>| <font size="4">xとyの乗除</font>|
+|<font size="4">-x </font>| <font size="4">xの符号を反転した値</font>|
+|<font size="4">+x </font>| <font size="4">xの符号を反転しない値</font>|
+|<font size="4">x ** y </font>| <font size="4">xのy乗</font>|
 
 
 
