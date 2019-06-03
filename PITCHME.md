@@ -88,7 +88,7 @@ etc...<br>
 ##### でPythonを起動しよう。  
 
 <details><summary>Macの方  </summary>
-<font size="6" color="red">Python3 と入力しエンター</font>    
+<font size="6" color="red">Python3 と入力しエンター</font>  </details>  
 <details><summary>Windowsの方  </summary>
 <font size="6" color="red">Pythonと入力しエンター</font></details>
 
