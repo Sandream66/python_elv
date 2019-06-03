@@ -70,13 +70,6 @@ etc...<br>
 ---
 
 # Pythonの基礎
-
-+++
-
-<font size="6">
-最初にプログラミングを学んでいく中で出てくる用語を<br>
-いくつか説明します。<br>
-</font>
 +++
 
 # オブジェクト指向のプログラミング
@@ -95,24 +88,11 @@ etc...<br>
 
 ## クラス（オブジェクト）とは？
 
-<font size="4">
+<font size="6">
 属性（変数）と動作（関数）という形で、持ち主を明記するようにしている  
-単純なカレーのレシピを考えてみてください。 
+単純なカレーのレシピを考えてみてください。 </font>
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpg">
 
-<table>
-<tr>
-<td><img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpg"></td>
-<td>
-これがクラスという概念になります。<br>
-１つクラスを作れば、　肉を鶏肉にすればチキンカレーができます。<br>
-豚肉にすれば、ポークカレー、牛肉ならビーフカレーが作れます。<br>
-レシピを作ることで、誰もが簡単に美味しいカレーを作ることができます。<br>
-クラスから作ったカレーをインスタンスと言います。<br>
-この話は、第3回の関数、クラスの会で改めて話ます。<br>
-</td>
-</tr>
-</table>
-</font>
 +++
 
 
