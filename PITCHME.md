@@ -98,7 +98,8 @@ Windowsの方
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python1.jpg" width="700">
 
 +++
-
+# 数値や文字などの演算子
+<font size="6">
 |演算子|意味|
 |:--|:--|
 |x + y | xとyの加算|
@@ -110,6 +111,6 @@ Windowsの方
 |-x | xの符号を反転した値|
 |+x | xの符号を反転しない値|
 |x ** y | xのy乗|
-
+</font>
 
 
