@@ -88,7 +88,7 @@ etc...<br>
 
 ## クラス（オブジェクト）とは？
 
-<font size="6">
+<font size="4">
 属性（変数）と動作（関数）という形で、持ち主を明記するようにしている  
 単純なカレーのレシピを考えてみてください。 </font>
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpg">
