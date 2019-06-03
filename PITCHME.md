@@ -101,7 +101,9 @@ Windowsの方
 ##### 数値や文字などの演算子
 
 
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python2.jpg" width="700">
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python2.jpg" width="700">  
+実際に使ってみましょう。
+
 
 
 
