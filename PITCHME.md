@@ -94,4 +94,4 @@ Windowsの方
 
 +++
 <font size="6">こんな感じになっていればOK　＊Pythonあとの数字とかは違っていても大丈夫です</font>
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide3.jpeg" width=85%>
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python1.jpeg" width=85%>
