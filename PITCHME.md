@@ -99,9 +99,11 @@ etc...<br>
 
 単純なカレーのレシピを考えてみてください。 
 
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpg">
-
-<br>
+<table>
+  <tr>
+<td><img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpg"></td>
+  </tr>
+<td>
 これがクラスという概念になります。<br>
 １つクラスを作れば、　肉を鶏肉にすればチキンカレーができます。<br>
 豚肉にすれば、ポークカレー、牛肉ならビーフカレーが作れます。<br>
@@ -109,6 +111,8 @@ etc...<br>
 クラスから作ったカレーをインスタンスと言います。<br>
 この話は、第3回の関数、クラスの会で改めて話ます。<br>
 </font>
+</td>
+</table>
 +++
 
 
