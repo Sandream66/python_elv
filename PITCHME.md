@@ -111,3 +111,10 @@ Windowsの方
 
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python3.jpg" width="700">  
 
+
+
+---
+# 型の話
+
++++
+
