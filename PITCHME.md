@@ -77,20 +77,20 @@ etc...<br>
 +++
 
 ##### ターミナル・コマンドプロンプト
-Macの方  
-<font size="6" color="red">［アプリケーション］→［ユーティリティ］→［ターミナル］を選択しましょう。</font>    
-Windowsの方  
-<font size="6" color="red">［スタート］→［Windowsシステムツール］→［コマンドプロンプト］を選択しましょう。  </font>
+<details><summary>Macの方  </summary>
+<font size="6" color="red">［アプリケーション］→［ユーティリティ］→［ターミナル］を選択しましょう。</font>  </details>  
+<details><summary>Windowsの方  </summary>
+<font size="6" color="red">［スタート］→［Windowsシステムツール］→［コマンドプロンプト］を選択しましょう。  </font></details>  
 
 +++
 
 ##### ターミナル・コマンドプロンプト
 ##### でPythonを起動しよう。  
 
-Macの方  
+<details><summary>Macの方  </summary>
 <font size="6" color="red">Python3 と入力しエンター</font>    
-Windowsの方    
-<font size="6" color="red">Pythonと入力しエンター</font>
+<details><summary>Windowsの方  </summary>
+<font size="6" color="red">Pythonと入力しエンター</font></details>
 
 +++
 <font size="6">こんな感じになっていればOK  
