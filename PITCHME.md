@@ -109,5 +109,5 @@ Windowsの方
 
 ### 文字列も計算してくれます
 
-
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python3.jpg" width="700">  
 
