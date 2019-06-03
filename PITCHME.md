@@ -118,3 +118,13 @@ Windowsの方
 
 +++
 
+### よく利用される型  
+<font size="4">
+int型：整数  
+float型：小数点  
+str型：文字列  
+bool型：真偽値  
+list型：リスト  
+tuple型：タプル  
+dict型：辞書  
+</font>
