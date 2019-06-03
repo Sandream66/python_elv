@@ -84,6 +84,7 @@ etc...<br>
 
 <br>*PyQドキュメントから引用
 </font>
+
 +++
 
 ## クラス（オブジェクト）とは？
@@ -94,7 +95,7 @@ etc...<br>
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpg">
 
 +++
-11
+
 <font size="6">Pythonプログラムを構成するデータや処理などの実態は、全て「オブジェクト」として統一的に管理されています。
 整数や文字列のような基本的なデータ型や、リストや辞書などのコレクション。あるいはユーザが定義する関数やクラスなどは、全て等しく「オブジェクト」です。</font>
 
