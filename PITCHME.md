@@ -70,9 +70,14 @@ etc...<br>
 ---
 # Pythonの基礎
 +++
-### Pythonはオブジェクト指向のプログラミング言語です。
+### Pythonはオブジェクト指向の  
+### プログラミング言語です。
 +++
 
+### オブジェクト指向とは？  
+
+<font size="4">オブジェクト指向は、クラスを基準としたプログラムを設計する方法論の1つ</font>  
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpg" width="700">
 
 +++
 
