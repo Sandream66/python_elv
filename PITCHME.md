@@ -80,6 +80,15 @@ etc...<br>
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/object1.jpg" width="700">
 
 +++
+### クラスとメソッドで構成されています。  
+
+<font size="4">
+  クラスの変数を属性。動作をメソッド。動作だけを取り出した関数で構成されています。  
+  １つ１つのデータ型も全てオブジェクトです。
+<font size="4">
+
+</font>
++++
 
 ### ターミナル・コマンドプロンプト 
 ### を立ち上げてみましょう
