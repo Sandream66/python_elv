@@ -349,3 +349,19 @@ mkdir elvpython
 
 <font size="4">デスクトップにelvpythonというディレクトリ（フォルダのことです）を作成します。</font>
 +++
+### テキストエディタにコードを書いてみよう  
+
+<font size="4">先ほどインストールしたAtomもしくはお好きなテキストエディタを開きます。</font>
+
+```
+print ("HelloWorld")
+```
+<font size="4">と書いて、先ほど作ったディレクトリに test.py という名前で保存しましょう。</font>
+
++++
+### ターミナル・コマンドプロンプトに戻ります。  
+<details><summary>Macの方  </summary>
+<font size="6" color="red">python3 test.py  </font></details>  
+<details><summary>Windowsの方  </summary>
+<font size="6" color="red">python test.py  </font></details>  
+ 
