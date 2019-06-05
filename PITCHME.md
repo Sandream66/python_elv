@@ -166,7 +166,6 @@ bool型：真偽値
 list型：リスト  
 tuple型：タプル  
 dict型：辞書  
-date型：日付
 </font>
 
 +++
@@ -245,7 +244,7 @@ True(真）とFalse（偽）の二種類が用意されています。
 ```
 bool1 = True  
 if bool1 == True:  
-    print("処理を実行")  
+    print "処理を実行"  
 ```
 <font size="4">のように、if文などの判断に使われる事が多いです。  
 if文についての詳細は後半で説明します。</font>
@@ -257,14 +256,14 @@ if文についての詳細は後半で説明します。</font>
 li1 = ["A","B","c",1,2,3,["cc","dd"]]  
 ```
 <font size="4">このように[ ]でくくったデータの集合体をリストと言います。  
-リストには部屋番号がついています。</font>
+リストには箱番号がついています。箱と箱は , で区切ります。</font>
 
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/list1.jpg" width="700">  
 
 <font size="4">部屋番号は0から始まります。各部屋の情報を取り出したい時は以下のように書きます。</font>  
 ```
 # リストの0番目を取り出したい
-print(li1[0])
+print li1[0]
 
 >>> A
 ```
@@ -275,18 +274,29 @@ print(li1[0])
 li1 = ("A","B","c",1,2,3,["cc","dd"])
 ```
 <font size="4">このように( )でくくったデータの集合体をタプルと言います。  
-リストと同じように部屋番号が0からついています。  
+リストと同じように箱番号が0からついています。 箱と箱は , で区切ります。 
 リストと異なるのは、更新が出来ないという事です。</font>
 ```
 # リストの場合
 li1 = ["A","B","c",1,2,3,["cc","dd"]]  
 li1[0] = "Change"
-print(li1)
+print li1
 >>> ["Change","B","c",1,2,3,["cc","dd"]] 
 
 # タプルで同じ事をやると・・
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 TypeError: 'tuple' object does not support item assignment
-というエラーが出ます。
+```
++++
+### dict型：辞書  
+```
+d1 = {"apple": "りんご","B": 2,"C": 3}
+```
+<font size="4">このように{ } でくくって　Key： Value で記載された集合体を辞書と言います。  
+英語辞書をイメージしてください。appleというKeyを調べると、りんごというvalueが確認できます。  
+Keyを使って、Valueを確認したいときは以下のように使います。  </font>
+```
+print d1["apple"]
+>>> りんご
 ```
