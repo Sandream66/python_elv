@@ -240,6 +240,6 @@ li1 = ["A","B","c",1,2,3,["cc","dd"]]
 <font size="4">このように[ ]でくくったデータの集合体をリストと言います。  
 リストには部屋番号がついています。</font>
 
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/list.jpg" width="700">  
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/list1.jpg" width="700">  
 
 
