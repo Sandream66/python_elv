@@ -387,4 +387,4 @@ Hello World
 +++
 ### どういうことかわかりますか？  
 
-![インストール手順](path/to/milkegg.jpg)
+![インストール手順](path/to/milkegg.png)
