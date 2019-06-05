@@ -237,9 +237,9 @@ if文についての詳細は後半で説明します。</font>
 ```
 li1 = ["A","B","c",1,2,3,["cc","dd"]]  
 ```
-このように[ ]でくくったデータの集合体をリストと言います。  
-リストには部屋番号がついています。
+<font size="4">このように[ ]でくくったデータの集合体をリストと言います。  
+リストには部屋番号がついています。</font>
 
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/.jpg" width="700">  
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/list.jpg" width="700">  
 
 
