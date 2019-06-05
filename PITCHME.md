@@ -268,3 +268,25 @@ print(li1[0])
 
 >>> A
 ```
+
++++
+### tuple型：タプル  
+```
+li1 = ("A","B","c",1,2,3,["cc","dd"])
+```
+<font size="4">このように( )でくくったデータの集合体をタプルと言います。  
+リストと同じように部屋番号が0からついています。  
+リストと異なるのは、更新が出来ないという事です。</font>
+```
+# リストの場合
+li1 = ["A","B","c",1,2,3,["cc","dd"]]  
+li1[0] = "Change"
+print(li1)
+>>> ["Change","B","c",1,2,3,["cc","dd"]] 
+
+# タプルで同じ事をやると・・
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'tuple' object does not support item assignment
+というエラーが出ます。
+```
