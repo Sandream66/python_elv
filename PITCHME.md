@@ -234,4 +234,12 @@ if文についての詳細は後半で説明します。</font>
 +++
 ### list型：リスト  
 
-テストテスト
+```
+li1 = ["A","B","c",1,2,3,["cc","dd"]]  
+```
+このように[ ]でくくったデータの集合体をリストと言います。  
+リストには部屋番号がついています。
+
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/.jpg" width="700">  
+
+
