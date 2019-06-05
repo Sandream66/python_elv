@@ -430,3 +430,18 @@ else:
 
 
 ![比較演算子](path/to/hikaku.jpg)
+
++++
+### 実際に書いてみよう  
+
+```
+x = 1
+y = 2
+
+#xがyより小さい場合はx is small
+
+x = y = "hogehoge"
+#xとyが等しい場合はYes そうでない場合はNo
+
+
+```
