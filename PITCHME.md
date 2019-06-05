@@ -242,4 +242,11 @@ li1 = ["A","B","c",1,2,3,["cc","dd"]]
 
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/list1.jpg" width="700">  
 
+<font size="4">部屋番号は0から始まります。  
+各部屋の情報を取り出したい時は以下のように書きます。</font>  
+```
+# リストの0番目を取り出したい
+print(li1[0])
 
+>>> "A"
+```
