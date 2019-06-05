@@ -359,9 +359,10 @@ print ("HelloWorld")
 <font size="4">と書いて、先ほど作ったディレクトリに test.py という名前で保存しましょう。</font>
 
 +++
-### ターミナル・コマンドプロンプトに戻ります。  
+### 実行  
+<font size="4">コマンドプロンプトもしくはターミナルに戻りましょう。  </font>
 <details><summary>Macの方  </summary>
-<font size="6" color="red">python3 test.py  </font></details>  
+<font size="6" color="red">`python3 test.py`  </font></details>  
 <details><summary>Windowsの方  </summary>
-<font size="6" color="red">python test.py  </font></details>  
+<font size="6" color="red">`python test.py`  </font></details>  
  
