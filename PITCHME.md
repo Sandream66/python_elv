@@ -91,6 +91,25 @@ etc...<br>
 </font>
 +++
 
+### 変数
+
++++
+#### 変数とは何でも入るはこです。
+
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/hensu1.jpg" width="700">  
+
+```
+# 文字も入る
+a = "疲れてきた？大丈夫？"
+
+# 数値も入る
+b = 123
+
+# そのほか色々入れられます。 
+```
+
++++
+
 ### ターミナル・コマンドプロンプト 
 ### を立ち上げてみましょう
 
