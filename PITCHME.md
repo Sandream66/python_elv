@@ -366,7 +366,9 @@ print ("Hello World")
 <details><summary>Windowsの方  </summary>
 <font size="6" color="red">`python test.py`  </font></details>  
  <font size="4">と入力してエンターキーを押下！！  </font>
+
 ```
 Hello World
 ```
+
 <font size="4">と出たら、成功です！！　おめでとうございます！！</font>
