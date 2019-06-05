@@ -94,7 +94,7 @@ etc...<br>
 ### 変数
 
 +++
-#### 変数とは何でも入るはこです。
+#### 変数とは何でも入る箱です。
 
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/hensu1.jpg" width="400">  
 
