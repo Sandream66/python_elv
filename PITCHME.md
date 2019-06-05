@@ -300,3 +300,6 @@ Keyを使って、Valueを確認したいときは以下のように使います
 print d1["apple"]
 >>> りんご
 ```
++++
+
+---?path/to/coffe.jpg
