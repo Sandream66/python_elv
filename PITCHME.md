@@ -302,4 +302,4 @@ print d1["apple"]
 ```
 +++
 
-![logo名](assets/img/coffe.jpg)
+![logo名](path/to/coffe.jpg)
