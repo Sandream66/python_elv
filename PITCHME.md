@@ -318,4 +318,4 @@ print (d1["apple"])
 私はAtomもしくはKomodoEditを使う事が多いです。  
 [Atomインストール](https://atom.io)</font>
 +++
-
+![インストール手順](path/to/coffe.jpg)
