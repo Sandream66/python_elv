@@ -440,7 +440,10 @@ else:
 # xとyが等しい場合はYes等しくない場合はNoを表示する
  
 
-# タプルで同じ事をやると・・
+'''
+xが10より小さければ xは10より小さいと表示
+
+'''
 Traceback (most recent call last):
   File "<stdin>", line 1, in <module>
 TypeError: 'tuple' object does not support item assignment
