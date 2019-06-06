@@ -437,11 +437,8 @@ else:
 +++
 
 ```
-# リストの場合
-li1 = ["A","B","c",1,2,3,["cc","dd"]]  
-li1[0] = "Change"
-print li1
->>> ["Change","B","c",1,2,3,["cc","dd"]] 
+# xとyが等しい場合はYes等しくない場合はNoを表示する
+ 
 
 # タプルで同じ事をやると・・
 Traceback (most recent call last):
