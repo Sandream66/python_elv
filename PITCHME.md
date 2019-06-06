@@ -456,7 +456,6 @@ x = 6
 # 回答
 
 <details><summary>出来たら自分で頑張って！  </summary>
-</details>  
 
 ```python
 # xとyが等しい場合はYes等しくない場合はNoを表示する
@@ -480,3 +479,4 @@ else:
     print("xは10より大きい")
 
 ```
+</details>  
