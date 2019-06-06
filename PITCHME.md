@@ -434,16 +434,5 @@ else:
 +++
 ### 実際に書いてみよう  
 
-```
-# xとyが等しい場合はYes そうでない場合はNo
-x = y = "hogehoge"
+---?code=Feature/ifpr.py&lang=python&title=Feature/ifpr.py
 
-
-
-# x が10より大きかったら　xは１０より大きいです　と表示
-# x が10と等し買ったら　xは10です　と表示
-# 上二つの条件に当てはまらなかったら、　xは10未満です　と表示
-
-
-
-```
