@@ -532,6 +532,23 @@ for i in range(1,101):
     else:
         print(i)
 ```
++++
+# これ知っておくと便利　　
+#### enumerate()関数　　
+
+```python
+for index, i in enumerate(range(1,101)):
+    print("%d %d"%(index, i))
+
+--実行結果
+0 1
+1 2
+2 3
+･
+･
+･
+```
+
 
 +++
 # 多重ループ（ネストしたforループ）
