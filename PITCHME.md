@@ -227,14 +227,14 @@ print("Hello")
 ```
 
 
-<font size="5">文字数を調べる組込関数</font>  
+<font size="4">文字数を調べる組込関数</font>  
 
 ```
 len("Hello")
 >>>5
 ```
   
-<font size="5">小文字に変換するメソッド</font>　　
+<font size="4">小文字に変換するメソッド</font>　　
 ```
 "A Ａ".lower()
 >>>'a a'
@@ -378,7 +378,7 @@ Hello World
 ```
 
 <font size="4">と出たら、成功です！！　おめでとうございます！！</font>
-+++
+---
 # if文  
 +++
 ### if文は条件分岐です  
@@ -485,4 +485,5 @@ else:
     print("xは10より大きい")
 
 ```
-+++ 
+---
+# for文
