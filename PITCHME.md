@@ -434,5 +434,4 @@ else:
 +++
 ### 実際に書いてみよう  
 
----?code=Feature/ifpr.py&lang=python&title=Feature/ifpr.py
-
+---?code=Feature/ifpr.py
