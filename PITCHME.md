@@ -437,11 +437,14 @@ else:
 +++
 
 ```
-# xとyが等しい場合はYes そうでない場合はNo
-x = y = "hogehoge"
+# リストの場合
+li1 = ["A","B","c",1,2,3,["cc","dd"]]  
+li1[0] = "Change"
+print li1
+>>> ["Change","B","c",1,2,3,["cc","dd"]] 
 
-# x が10より大きかったら　xは１０より大きいです　と表示
-# x が10と等しかったら　xは10です　と表示
-# 上二つの条件に当てはまらなかったら、　xは10未満です　と表示
-x = 6
+# タプルで同じ事をやると・・
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+TypeError: 'tuple' object does not support item assignment
 ```
