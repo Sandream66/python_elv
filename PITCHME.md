@@ -438,13 +438,12 @@ else:
 
 ```
 # xとyが等しい場合はYes等しくない場合はNoを表示する
- 
+x = y = 2 
 
 '''
 xが10より小さければ xは10より小さいと表示
-
+xが10と等しければ　xは10ですと表示
+xが１０よりも大きければxは10より大きいと表示
 '''
-Traceback (most recent call last):
-  File "<stdin>", line 1, in <module>
-TypeError: 'tuple' object does not support item assignment
+x = 6
 ```
