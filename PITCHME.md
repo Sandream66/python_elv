@@ -120,7 +120,7 @@ b = 123
 <font size="6" color="red">［アプリケーション］→［ユーティリティ］→［ターミナル］を選択しましょう。</font>  </details>  
 <details><summary>Windowsの方  </summary>
 <font size="6" color="red">［スタート］→［Windowsシステムツール］→［コマンドプロンプト］を選択しましょう。  </font></details>  
-
+        
 +++
 
 ##### ターミナル・コマンドプロンプト
