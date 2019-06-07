@@ -1,5 +1,5 @@
 <font size="4">
-[Windows](https://www.python.org/downloads/windows/)</font>
+[Windows](https://www.python.org/downloads/windows/)  
 [Mac](https://www.python.org/downloads/)</font>
 
 
