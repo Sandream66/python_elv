@@ -1,3 +1,9 @@
+<font size="4">
+[Windows](https://www.python.org/downloads/windows/)</font>
+[Mac](https://www.python.org/downloads/)</font>
+
+
++++
 <!-- 自己紹介 -->
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/p_elv.jpeg" width=200%>
 +++
