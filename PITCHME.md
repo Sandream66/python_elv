@@ -358,6 +358,13 @@ mkdir elvpython
 ```
 
 <font size="4">デスクトップにelvpythonというディレクトリ（フォルダのことです）を作成します。</font>
+
+```
+cd elvpython
+```
+
+<font size="4">作成したディレクトリ内に移動します。</font>  
+
 +++
 ### テキストエディタに　　
 ### コードを書いてみよう  
