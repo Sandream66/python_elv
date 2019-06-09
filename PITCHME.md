@@ -1,7 +1,7 @@
 ### Pythonのインストール
 
 [Windows](https://www.python.org/downloads/windows/) 
-![install_win](path/to/python-installation-options.png)  
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/python-installation-options.png" width=60%>
 <font size="4">Add Python ●● to PATH に必ずチェックをいれましょう。</font>
 
 [Mac](https://www.python.org/downloads/)</font>
