@@ -1,5 +1,9 @@
-<font size="4">
-[Windows](https://www.python.org/downloads/windows/)  
+# Pythonのインストール
+
+[Windows](https://www.python.org/downloads/windows/) 
+![install_win](python-installation-options.png)  
+<font size="4">Add Python ●● to PATH に必ずチェックをいれましょう。</font>
+
 [Mac](https://www.python.org/downloads/)</font>
 
 
@@ -532,7 +536,7 @@ range(10)は[0,1,2,3,4,5,6,7,8,9]のリストを作る関数です。</font>
 <font size="4">
 1～100までの数値を表示し、３で割り切れる数の時だけその数字と
 Hello　
-という文字をだしてみよう  
+という文字、それ以外は数字のみを書き出してみよう。
 "%d Hello"%変数
 </font>
 +++
@@ -621,7 +625,7 @@ for index, i in enumerate(range(1,32)):
         count_no = 0
     else:
         count_no += 1
-    print("%s %s"%(i, day_list[count_no]))
+    print("%d %s"%(i, day_list[count_no]))
 ```
 
 ---
