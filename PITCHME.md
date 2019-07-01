@@ -105,7 +105,7 @@ etc...<br>
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/hensu1.jpg" width="400">  
 
 
-```
+```python
 # 文字も入る
 a = "疲れてきた？大丈夫？"
 
