@@ -5,6 +5,4 @@ footnote : "@ 2019 Let's start Python"
 slide.number : true
 
 theme-override : css/PITCHME.css
-
-theme : False
 　
