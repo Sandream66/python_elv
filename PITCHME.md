@@ -99,7 +99,8 @@ etc...<br>
 
 +++
 #### 変数とは何でも入る箱です。
-![変数](path/to/hensu1.jpg)
+
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/hensu1.jpeg" width=200%>
 
 ```python
 # 文字も入る
