@@ -13,8 +13,7 @@
 +++
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide2.jpeg" width=85%>
 +++
-
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide4.jpeg" width=85%>
+<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide5.jpeg" width=85%>
 +++
 <img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/slide6.jpeg" width=85%>
 +++
@@ -72,7 +71,6 @@ etc...<br>
 間違いなく<br>
 初心者にも優しい言語だと思います！
 </font>
-<!-- Pythonの話 -->
 
 ---
 # Pythonの基礎
@@ -101,9 +99,7 @@ etc...<br>
 
 +++
 #### 変数とは何でも入る箱です。
-
-<img src="https://raw.githubusercontent.com/Sandream66/python_elv/master/path/to/hensu1.jpg" width="400">  
-
+![変数](path/to/hensu1.jpg)
 
 ```python
 # 文字も入る
